@@ -1,166 +1,23 @@
 #EXTM3U 
 
 
-#EXTINF:-1,Channels:Adithya
-http://streams.cdn0077.com/india_ws3769/adithiyaINDIA/chunks.m3u8
+#EXTINF:-1,Channel 62:Channel Name
+http://78.26.128.94:7321/index.php?channel=62
 
-#EXTINF:-1,Channels:KTV HD
-http://streams.cdn0077.com/india_ws3769/ktvINDIA/playlist.m3u8
+#EXTINF:-1,Channel 69:Channel Name
+http://78.26.128.94:7321/index.php?channel=69
 
-#EXTINF:-1,Channels:SunLife
-http://176.31.232.47:8081/apkland_live/playlistfe/playlist.m3u8
+#EXTINF:-1,Channel 72:Channel Name
+http://78.26.128.94:7321/index.php?channel=72
 
-#EXTINF:-1,Channels:SunTV
-http://176.31.232.47:8081/apkland_live/suntv1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDE2IDExOjA0OjM5IEFNJmhhc2hfdmFsdWU9NERsTXRDNmNaa0ZpOGhncjMzZEU0Zz09JnZhbGlkbWludXRlcz01
+#EXTINF:-1,Channel 86:Channel Name
+http://78.26.128.94:7321/index.php?channel=86
 
-#EXTINF:-1,Channels:SunTV
-http://176.31.232.47:8081/apkland_live/suntv1/chunks.m3u8?nimblesessionid=1566395&wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDE2IDc6MjM6NTkgQU0maGFzaF92YWx1ZT11alRDQUlNelJVRXlONlVJcnI5WVFRPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1,Channel 87:Channel Name
+http://78.26.128.94:7321/index.php?channel=87
 
-#EXTINF:-1,Channels:VijayTV
-http://tamilhdtv.net/tv/channels/view.php?ch=Sun%20Music%20HD
+#EXTINF:-1,Channel 89:Channel Name
+http://78.26.128.94:7321/index.php?channel=89
 
-#EXTINF:-1,Channels:Puthiyathalamurai
-http://dzamqgwxt2cln.cloudfront.net/httporg/pttv/chunklist_w1017380575.m3u8
-
-#EXTINF:-1,Channels:Vasantham
-rtmp://mediacp2.comcities.com:1935/itn-vasantham/itn-vasantham
-
-
-#EXTINF:-1,Channels:Captain TV
-http://edge.purplestream.com/live/captain/amlst:captaintv/playlist.m3u8
-
-
-#EXTINF:-1,Channels:Captain News
-http://edge.purplestream.com/live/captain/amlst:captainnews/playlist.m3u8
-
-#EXTINF:-1,Channels:Dheeran TV
-http://edge.purplestream.com/live/dhtv/amlst:dheetv/playlist.m3u8
-
-#EXTINF:-1,Channels:News 7
-http://edge.purplestream.com/live/ns7/amlst:news7/playlist.m3u8
-
-
-#EXTINF:-1,Channels:Vimbam TV
-rtmp://91.219.43.148:1935/vimbamtv/vimbamtv
-
-#EXTINF:-1,Channels:Tamilan TV
-http://38.96.175.192:1943/live/tamilantelevision1/playlist.m3u8
-
-#EXTINF:-1,Channels:Thanthi TV
-http://d30zz3d0a9ty3e.cloudfront.net/httporg/thanthi_450/playlist.m3u8
-
-#EXTINF:-1,Channels:Imayam TV
-rtmp://cp.akamain.info:1935/imayamtv/imayamtv
-
-
-#EXTINF:-1,Channels:Jaya Plus
-rtmp://78.46.17.7:1935/live/myStream.sdp
-
-
-#EXTINF:-1,Channels:Channel UFX
-rtmp://live.wmncdn.net/ufx/378846f78998168446c173d7055d2653.sdp
-
-
-#EXTINF:-1,Channels:Public TV
-rtmp://streamer.vidgyor.com:1935/publictv/live
-
-
-#EXTINF:-1,Channels:Daiji World
-rtmp://live.wmncdn.net/daijiworld24x7/9e8d2ee8ddf0223a8a2c0b78cc58d555.sdp
-
-
-
-#EXTINF:-1,Channels:Puthuyugam
-http://edge.purplestream.com/live/py/puthuyugam/playlist.m3u8
-
-
-#EXTINF:-1,Channels:Vendar TV
-rtmp://stream.waxcloud.com/gladston-live/play/mp4:vendhartv
-
-
-
-#EXTINF:-1,Channels:Vasanth TV
-http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/chunklist_w1738448578.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f&time=1429769547718
-
-
-
-#EXTINF:-1,Channels:Tamil Aruvi
-http://91.82.85.44:1935/scr8174/lives078.sdp/playlist.m3u8?wowzasessionid=1872784777
-
-
-#EXTINF:-1,Channels:Namma Kudla
-http://livestream.webtvindia.in/nammakudla/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-
-
-
-
-#EXTINF:-1, HE_FILM_ZONE_HD
-http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
-
-
-
-#EXTINF:-1,WARNER_WB_HD
-http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
-
-
-#EXTINF:-1,UNIVERSAL_HD
-http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
-
-
-#EXTINF:-1,FX_HD
-http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
-
-
-
-#EXTINF:-1, Cinecanal_+
-http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?
-
-
-#EXTINF:-1,FOX_1_HD
-http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
-
-
-#EXTINF:-1,FOX_ACTION_HD
-http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
-
-
-#EXTINF:-1,FOX_MOVIES_HD
-http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
-
-#EXTINF:-1,FOX_CINEMA
-http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
-
-
-#EXTINF:-1,FOX_CLASSIS
-http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
-
-
-#EXTINF:-1,DISCOVERY_THEATER_HD
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE05.m3u8?
-
-#EXTINF:-1,DISCOVERY_WORD_HD
-http://200.76.77.237/LIVE/H01/CANAL356/PROFILE05.m3u8?
-
-#EXTINF:-1,WOBI
-http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?
-
-#EXTINF:-1,MUSICA_GOTICA
-rtmp://149.11.34.6:1935/live/gotica.stream?
-
-#EXTINF:-1,TELE_HIT_HD
-http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?
-
-#EXTINF:-1,VH1_HD
-http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
-
-#EXTINF:-1,VH1_CLASICO
-http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?
-
-#EXTINF:-1,MTV_LIVE_HD
-http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
-
-#EXTINF:-1,Capital_TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
-
-
-
+#EXTINF:-1,Channel 90:Channel Name
+http://78.26.128.94:7321/index.php?channel=90
